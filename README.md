@@ -1,11 +1,10 @@
 # Hr-Attrition
-Project Overview
+**Project Overview**
 
 The HR Attrition Analysis Dashboard is a Tableau-based HR Analytics project designed to analyze employee attrition patterns, workforce demographics, job satisfaction, and department-level trends.
-
 This dashboard helps HR teams and business stakeholders understand why employees leave, identify high-risk attrition groups, and make data-driven workforce planning and retention decisions.
 
-Project Objective
+**Project Objective**
 
 The main objective of this project is to analyze employee attrition and provide actionable HR insights through interactive visualizations.
 
@@ -29,15 +28,15 @@ Monitor overall retention performance
 
 This project transforms raw HR data into a clear, interactive Tableau dashboard for easier interpretation and business use.
 
-Tools & Technologies Used
+**Tools & Technologies Used**
 Tableau – Dashboard creation and data visualization
 Excel / CSV – Source dataset
 Calculated Fields – KPI and metric generation
 Data Cleaning & Transformation – Preprocessing and standardization
-Dataset Overview
+
+**Dataset Overview**
 
 The dataset includes key HR-related fields required for workforce analysis.
-
 Data Fields Included:
 Employee Demographics
 Age
@@ -63,7 +62,7 @@ Work-Life Balance
 
 This dataset supports a complete analysis of employee attrition and HR performance.
 
-Data Cleaning & Transformation
+**Data Cleaning & Transformation**
 
 Before building the dashboard, the data was cleaned and prepared to ensure consistency and accuracy.
 
@@ -86,7 +85,7 @@ Attrition Rate
 Total Active Employees
 Key Performance Indicators (KPIs)
 
-The dashboard tracks the following HR KPIs:
+**The dashboard tracks the following HR KPIs:**
 
  Total Employees
  Active Employees
@@ -131,7 +130,7 @@ Provides an overview of employee retention and resignation counts.
 
  Key Insights & Findings
 
-Some major findings from the dashboard include:
+**Some major findings from the dashboard include:**
 
 Most employees fall within the 25–44 age group
 Male attrition is higher compared to female attrition
@@ -141,7 +140,7 @@ Attrition trends can be linked to workforce demographics and job satisfaction le
 
 These insights can help HR teams focus on retention strategies, employee engagement, and workforce planning.
 
- Conclusion
+** Conclusion**
 
 The HR Attrition Analysis Dashboard provides a comprehensive view of employee attrition, workforce composition, and satisfaction trends.
 
